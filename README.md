@@ -7,6 +7,21 @@ with a rendering of Egyptian Hieroglyphic in SVG.
 
 ## Instructions
 
+Optional, if you use Nix:
+
+```
+nix-shell -p nodejs
+```
+
+Then use NPM to install the project dependencies. This only has to be done
+once:
+
+```
+npm install
+```
+
+Finally, start the app:
+
 ```
 npm start 
 ```
